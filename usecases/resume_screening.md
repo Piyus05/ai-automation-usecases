@@ -1,6 +1,8 @@
+## Scoring Criteria
+- Skill match
+- Experience relevance
+- Education
+- Project exposure
 
-Prompt:
-You are an HR assistant. Rank candidates based on skills.
-
-Input: Resume text...
-Output: Ranked list with reasoning.
+## Output Format
+Candidate Name | Score | Recommendation
